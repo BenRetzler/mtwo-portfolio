@@ -1,6 +1,6 @@
 .top {
     background-color:blue;
     color:white;
-    display:block;
+    display:inline-block;
     vertical-align: top;
 }
