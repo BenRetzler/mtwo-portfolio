@@ -3,7 +3,13 @@ header {
     text-align:center;
     color:white;
 }
-.top {
+.top1 {
+    background-color:blue;
+    text-align:center;
+    color:white;
+    display:inline;
+}
+.top2 {
     background-color:blue;
     text-align:center;
     color:white;
