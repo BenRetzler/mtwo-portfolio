@@ -1,8 +1,8 @@
 header {
-    display:inline;
+    display:block;
+    background-color:blue;
 }
 .top {
-    background-color:blue;
     text-align:center;
     color:white;
     display:inline;
