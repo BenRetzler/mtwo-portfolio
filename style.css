@@ -2,4 +2,6 @@
     background-color:blue;
     color:white;
     display:block;
+    text-align:center;
+    float:initial;
 }
