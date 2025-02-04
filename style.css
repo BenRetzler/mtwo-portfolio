@@ -1,9 +1,9 @@
 .top {
     background-color:blue;
-    color:pink;
+    color:white;
     display:block;
     text-align:center;
 }
 .gray {
-    background-color: gray;
+    background-color: #e8e8e8;
 }
